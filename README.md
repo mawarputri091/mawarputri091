@@ -1,4 +1,22 @@
-## Hi there 👋
+hi there! 🌸 i'm mawar putri kirana 🍭
+
+💁‍♀️ About Me
+
+- 🎓 Currently studying **Informatics Engineering**
+- 🧠 Always learning something new about **Web Dev & UI/UX Design**
+- 💻 I love building things with **HTML, CSS, JS, React**
+- 🌸 Aesthetic and clean code is my love language ✨
+
+
+
+
+
+
+
+
+
+
+
 
 <!--
 **mawarputri091/mawarputri091** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
